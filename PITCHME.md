@@ -2,11 +2,27 @@
 @title[Introduction]
 
 @snap[west headline text-white span-70]
-GitPitch<br>*The Template*
+C#<br>*Fundamentals*
 @snapend
 
 @snap[south-west byline  text-white]
-The Fastest Way From Idea To Presentation.
+From Basic to Craft Code.
+@snapend
+
+---?image=template/img/bg/purple.jpg&position=top&size=100% 20%
+@title[Course Outline]
+
+@snap[north text-white span-100]
+@size[1.5em](Course Outline)
+@snapend
+
+@snap[south span-100]
+@ol[bullet-green](false)
+- Array
+- Generic
+- Collection
+@olend
+<br><br>
 @snapend
 
 ---
